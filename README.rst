@@ -6,6 +6,7 @@
 
 * Portainer Kurulumu
 * RabbitMQ Kurulumu
+* GitLab Kurulumu
 * ElasticSearch ve Kibana Kurulumu <--> Docker-Compose
 * MongoDB ve MongoExpress Kurulumu <--> Docker-Compose
 
